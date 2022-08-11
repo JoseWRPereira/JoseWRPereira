@@ -1,6 +1,6 @@
 ## José W. R. Pereira <img width="" src="https://icons.iconarchive.com/icons/google/noto-emoji-people-bodyparts/48/11972-vulcan-salute-light-skin-tone-icon.png" />
 
-Atuo como instrutor no SENAI e sou aluno de Ciência de Dados na UniVESP.
+Instrutor do curso técnico em Eletroeletrônica (disciplinas de eletrônica) e aluno de Ciência de Dados na UniVESP.
 
 ## Contatos
   [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:josewrpereira@protonmail.com)
@@ -17,10 +17,7 @@ Atuo como instrutor no SENAI e sou aluno de Ciência de Dados na UniVESP.
   ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-  ![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-  ![](https://img.shields.io/badge/AWK-%20-lightgrey)
-
+  
 ##
 
   ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseWRPereira&layout=compact&langs_count=7&theme=blue-green) |
