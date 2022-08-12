@@ -27,4 +27,14 @@ Instrutor do curso técnico em Eletroeletrônica (disciplinas de eletrônica) e 
   ![Snake animation](https://github.com/JoseWRPereira/JoseWRPereira/blob/output/github-contribution-grid-snake.svg)
   
 ##
+<div style="display: inline_block"><br>
+  <img align="center" alt="C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
+</div>
+
+* ![Curso de microcontrolador PIC - básico](https://github.com/JoseWRPereira/curso_uc_basico_PIC)
+* ![Microcontrolador no SimulIDE](https://github.com/JoseWRPereira/ucPICsimulIDE)
+* ![CPU Bluetooth WiFi](https://github.com/JoseWRPereira/cpu_bt_wifi_pci)
+* ![TCC - Sequenciador Programável](https://github.com/JoseWRPereira/sequenciadorProgramavel)
+* ![Gravador de PIC - pk2cmd](https://github.com/JoseWRPereira/pk2cmd)
+
 ##
