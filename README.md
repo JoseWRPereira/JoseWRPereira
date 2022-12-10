@@ -1,6 +1,6 @@
 ## José W. R. Pereira <img width="" src="https://icons.iconarchive.com/icons/google/noto-emoji-people-bodyparts/48/11972-vulcan-salute-light-skin-tone-icon.png" />
 
-Instrutor do curso técnico em Eletroeletrônica (disciplinas de eletrônica) e aluno de Ciência de Dados na UniVESP.
+Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletroeletrônica (disciplinas de eletrônica).
 
 
 ## Contatos
