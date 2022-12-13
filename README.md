@@ -27,7 +27,7 @@ Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletr
   
 ##
 
-  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseWRPereira&layout=compact&langs_count=7&theme=blue-green) |
+  ![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseWRPereira&layout=compact&langs_count=7&theme=blue-green)
   ![Badge](https://github-readme-stats.vercel.app/api?username=JoseWRPereira&theme=blue-green) 
 
 ##
