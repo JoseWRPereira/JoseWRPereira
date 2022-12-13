@@ -12,18 +12,18 @@ Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletr
 
 
 ### Linguagens de programação / Tecnologias de interesse
-  ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-  ![](https://img.shields.io/badge/C%2B%2B-0039CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black)
-  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![](https://img.shields.io/badge/Flask-00C9CC?style=for-the-badge&logo=flask&logoColor=black)
   ![](https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=white)
-  ![](https://img.shields.io/badge/awk-007733?style=for-the-badge&logo=awk&logoColor=green)
-  ![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
   ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=Pandas&logoColor=orange)
   ![](https://img.shields.io/badge/SciPy-00498C?style=for-the-badge&logo=SciPy&logoColor=white)
   ![](https://img.shields.io/badge/ScikitLearn-F99245?style=for-the-badge&logo=SciKitLearn&logoColor=black)
+  ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![](https://img.shields.io/badge/C%2B%2B-0039CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![](https://img.shields.io/badge/Flask-00C9CC?style=for-the-badge&logo=flask&logoColor=black)
+  ![](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black)
+  ![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
+  ![](https://img.shields.io/badge/awk-007733?style=for-the-badge&logo=awk&logoColor=green)
   
 ##
 
@@ -32,12 +32,7 @@ Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletr
 
 ##
   ![Snake animation](https://github.com/JoseWRPereira/JoseWRPereira/blob/output/github-contribution-grid-snake.svg)
-  
-##
-
-<div style="display: inline_block"><br>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M32 32c17.7 0 32 14.3 32 32V400c0 8.8 7.2 16 16 16H480c17.7 0 32 14.3 32 32s-14.3 32-32 32H80c-44.2 0-80-35.8-80-80V64C0 46.3 14.3 32 32 32zM160 224c17.7 0 32 14.3 32 32v64c0 17.7-14.3 32-32 32s-32-14.3-32-32V256c0-17.7 14.3-32 32-32zm128-64V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V160c0-17.7 14.3-32 32-32s32 14.3 32 32zm64 32c17.7 0 32 14.3 32 32v96c0 17.7-14.3 32-32 32s-32-14.3-32-32V224c0-17.7 14.3-32 32-32zM480 96V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V96c0-17.7 14.3-32 32-32s32 14.3 32 32z"/></svg>
-</div>
+ 
 
 ### Ciência de Dados (*Data Science*)
 * ![Jupyter Lab](https://github.com/JoseWRPereira/jupyter-lab)
