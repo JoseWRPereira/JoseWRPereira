@@ -12,18 +12,18 @@ Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletr
 
 
 ### Linguagens de programação / Tecnologias de interesse
-  ![](https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=white)
-  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/Pandas-FFFFFF?style=for-the-badge&logo=Pandas&logoColor=orange)
   ![](https://img.shields.io/badge/SciPy-00498C?style=for-the-badge&logo=SciPy&logoColor=white)
   ![](https://img.shields.io/badge/ScikitLearn-F99245?style=for-the-badge&logo=SciKitLearn&logoColor=black)
+  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![](https://img.shields.io/badge/Linux-444444?style=for-the-badge&logo=Linux&logoColor=white)
   ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![](https://img.shields.io/badge/C%2B%2B-0039CC?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
   ![](https://img.shields.io/badge/Flask-00C9CC?style=for-the-badge&logo=flask&logoColor=black)
-  ![](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black)
   ![](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
   ![](https://img.shields.io/badge/awk-007733?style=for-the-badge&logo=awk&logoColor=green)
+<!--   ![](https://img.shields.io/badge/JavaScript-FFFF00?style=for-the-badge&logo=JavaScript&logoColor=black) -->
   
 ##
 
