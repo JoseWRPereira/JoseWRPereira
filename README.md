@@ -1,11 +1,10 @@
 ## José W. R. Pereira <img width="" src="https://icons.iconarchive.com/icons/google/noto-emoji-people-bodyparts/48/11972-vulcan-salute-light-skin-tone-icon.png" />
 
-Aluno de **Ciência de Dados** na UniVESP e instrutor do curso técnico em Eletroeletrônica (disciplinas de eletrônica).
+Aluno de **Ciência de Dados** na UniVESP e Professor de Microcontroladores, CLP, Redes Industriais e Protocolos de Comunicação em TAI e ECA (IFSP/Salto).
 
 
 ## Contatos
   [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:josewrpereira@protonmail.com)
-  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/josewrpereira)
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josewrpereira/)
   [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JoseWRPereira)
   <!---![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)--->
