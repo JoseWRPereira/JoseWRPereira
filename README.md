@@ -6,7 +6,7 @@ Aluno de **Ciência de Dados** na UniVESP e Professor de Microcontroladores, CLP
 ## Contatos
   [![ProtonMail Badge](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:josewrpereira@protonmail.com)
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josewrpereira/)
-  [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JoseWRPereira)
+  <!---[![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/JoseWRPereira)--->
   <!---![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)--->
 
 
@@ -55,7 +55,7 @@ Aluno de **Ciência de Dados** na UniVESP e Professor de Microcontroladores, CLP
 <div style="display: inline_block"><br>
 <img align="center" alt="C" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg">
 </div> 
--->
+--->
 
 * ![PIC - Curso básico de microcontrolador](https://github.com/JoseWRPereira/curso_uc_basico_PIC)
 * ![PIC - Gravador - pk2cmd](https://github.com/JoseWRPereira/pk2cmd)
